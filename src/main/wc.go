@@ -7,7 +7,7 @@ import (
 	"strings"
 	"unicode"
 
-	"charge/6.824/src/mapreduce"
+	"mapreduce"
 )
 
 //
